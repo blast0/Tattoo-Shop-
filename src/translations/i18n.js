@@ -178,39 +178,39 @@ i18next
           },
         },
       },
-      hu: {
+      hi: {
         translation: {
           hero18: {
-            tattooandpiercing: "Tetoválás és Piercing",
-            welcome: "Üdvözöljük hivatalos weboldalunkon!",
+            tattooandpiercing: "टैटू और पियर्सिंग",
+            welcome: "हमारी आधिकारिक वेबसाइट पर आपका स्वागत है!",
           },
           nav18: {
-            about: "Rólunk",
-            services: "Szolgáltatások",
-            gallery: "Galéria",
-            testimonials: "Beszámolók",
-            contact: "Kapcsolat",
-            booking: "Foglalás",
+            about: "हमारे बारे में",
+            services: "सेवाएँ",
+            gallery: "गैलरी",
+            testimonials: "प्रशंसापत्र",
+            contact: "संपर्क",
+            booking: "बुकिंग",
           },
           about18: {
-            heading: "Rólunk",
+            heading: "हमारे बारे में",
             content:
-              "Üzletünk 2017 óta üzemel Cegléd városában. Jelenlegi címünk: Cegléd, Kossuth Ferenc utca 8. (A Gyarmati udvarban található üzletünk!). Vendégeinket egy barátságos, családias hangulatú és szellemű üzlet fogadja. Vendégkörünk folyamatosan bővült az évek során, nektek köszönhetően ma már egy nagyszerű csapat és család vagyunk!",
+              "हमारी दुकान 2017 से Cegléd शहर में संचालित हो रही है। हमारा वर्तमान पता है: Cegléd, Kossuth Ferenc स्ट्रीट 8. (हमारी दुकान Gyarmati आंगन में स्थित है!)। हमारे अतिथियों का स्वागत एक दोस्ताना, पारिवारिक माहौल में किया जाता है। वर्षों से हमारे ग्राहक लगातार बढ़ते गए हैं, और आपकी बदौलत हम एक शानदार टीम और परिवार बन गए हैं!",
           },
           services18: {
-            heading: "Szolgáltatások",
+            heading: "सेवाएँ",
             content:
-              "Stúdiónkban széleskörű szolgáltatásokat kínálunk a tetoválás és testmódosítás iránt érdeklődők számára. Legyen szó egyedi tetoválás tervezéséről vagy maga a tetoválás elkészítéséről, mi segítünk megvalósítani az elképzeléseidet. A tetoválások mellett profi piercing és microdermal beültetéseket is végzünk, biztosítva a biztonságos és precíz kivitelezést. Stúdiónk tiszta, barátságos környezetet biztosít, ahol kényelmesen érezheted magad a folyamat során.",
+              "हमारे स्टूडियो में, हम टैटू और बॉडी मॉडिफिकेशन में रुचि रखने वालों के लिए विभिन्न सेवाएँ प्रदान करते हैं। चाहे आप एक कस्टम टैटू डिज़ाइन चाहते हों या टैटू बनवाने के लिए तैयार हों, मैं आपके विचार को साकार करने के लिए व्यक्तिगत रूप से आपके साथ काम करूंगा। टैटू के अलावा, मैं प्रोफेशनल पियर्सिंग और माइक्रोडर्मल इम्प्लांट्स में विशेषज्ञ हूँ, यह सुनिश्चित करते हुए कि हर कदम सुरक्षित और सटीक हो। हम एक साफ और स्वागतपूर्ण वातावरण प्रदान करते हैं जहाँ आप पूरी प्रक्रिया के दौरान आरामदायक महसूस करेंगे।",
           },
           gallery18: {
-            heading: "Galéria",
+            heading: "गैलरी",
             content:
-              "A munkánk során számos projektet készítettem, és rengeteg példát találhatsz a galéria szekcióban. Nyugodtan böngéssz a tetoválások, piercingek és microdermal munkáim között. A galéria csúsztatható nézetet kínál, így könnyedén felfedezheted az alkotásokat. Rendszeresen frissítem a fotókat, ezért érdemes visszanézni az új tartalmakért és legújabb projektjeimért.",
+              "मेरे काम के दौरान मैंने कई तरह की परियोजनाएँ पूरी की हैं, जिनके उदाहरण आप गैलरी सेक्शन में देख सकते हैं। यहाँ आपको टैटू, पियर्सिंग और माइक्रोडर्मल्स के कई नमूने मिलेंगे। गैलरी स्लाइडिंग व्यू प्रदान करती है, जिससे देखना आसान हो जाता है। मैं नियमित रूप से नई तस्वीरें जोड़ता रहता हूँ, इसलिए ताज़ा सामग्री और हाल की परियोजनाओं के लिए बार-बार देखें।",
           },
           testimonials18: {
-            heading: "Beszámolók",
+            heading: "प्रशंसापत्र",
             content:
-              "Örömmel osztjuk meg ügyfeleink pozitív tapasztalatait. Minden visszajelzés kiemeli azt a gondosságot és szakértelmet, amelyet minden tetoválásba és piercingbe fektetünk. Lapozz végig néhány elégedett ügyfelünk Facebookon és Google-ön található véleményei között, és tudd meg, mit mondanak rólunk. Kattints a fejlécre, hogy részletesebb visszajelzéseket olvashass, és megtudd, miért választanak minket olyan sokan testük díszítésére!",
+              "हमें अपने ग्राहकों के सकारात्मक अनुभव साझा करने में खुशी होती है। हर प्रतिक्रिया हमारे द्वारा किए गए हर टैटू और पियर्सिंग में डाली गई देखभाल और विशेषज्ञता को दर्शाती है। हमारे कुछ संतुष्ट ग्राहकों की समीक्षाएँ Facebook और Google पर देखें। हेडर पर क्लिक करके अधिक विस्तृत समीक्षाएँ पढ़ें और जानें कि क्यों इतने लोग हमें अपने शरीर को सजाने के लिए चुनते हैं!",
           },
           testimonial18: {
             slides: [
@@ -219,15 +219,14 @@ i18next
                 src: require("../images/testimonialsImgs/bettina.png"),
                 link: "https://www.facebook.com/share/p/15bENQjYdv/",
                 review:
-                  "Csak ajánlani tudom. Jófej tetováló ügyes kezekkel 🥰🥰😇",
+                  "मैं केवल अनुशंसा कर सकती हूँ। एक कुशल टैटू आर्टिस्ट 🥰🥰😇",
                 rating: "⭐⭐⭐⭐⭐",
               },
-
               {
                 name: "Zoltán",
                 src: require("../images/testimonialsImgs/zoltan.png"),
                 link: "https://maps.app.goo.gl/gNw5BxF8Pz6LiSXT9",
-                review: "Nagyon szépen dolgozik. Csak ajánlani tudom!",
+                review: "यह बहुत अच्छा काम करते हैं। मैं केवल अनुशंसा कर सकता हूँ!",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
@@ -235,7 +234,7 @@ i18next
                 src: require("../images/testimonialsImgs/dia.png"),
                 link: "https://g.co/kgs/pVxRGH8",
                 review:
-                  "Nagyon szép es precíz munka, barátságos környezet, kiváló szakemberrel... Kell ennél több??? 😀",
+                  "बहुत सुंदर और सटीक काम, दोस्ताना वातावरण और उत्कृष्ट प्रोफेशनल्स... और क्या चाहिए??? 😀",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
@@ -243,7 +242,7 @@ i18next
                 src: require("../images/testimonialsImgs/edina.png"),
                 link: "https://maps.app.goo.gl/MMRfjxfNWfrooxvv5",
                 review:
-                  "Nagyon jó kis hely! Barátságos környezet. Szép munkát végez!",
+                  "बहुत अच्छी जगह! दोस्ताना माहौल। आप सटीक काम कर रहे हैं!",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
@@ -251,138 +250,135 @@ i18next
                 src: require("../images/testimonialsImgs/helga.png"),
                 link: "https://www.facebook.com/share/p/BEha5HXkhYsBEnch/",
                 review:
-                  "Hálásan köszönöm, profizmus, türelem és kedvesség. Biztosan visszatérek még.",
+                  "बहुत धन्यवाद, प्रोफेशनलिज़्म, धैर्य और दयालुता। मैं निश्चित रूप से फिर आऊँगी।",
                 rating: "⭐⭐⭐⭐⭐",
               },
             ],
           },
           contact18: {
-            heading: "Kapcsolat",
+            heading: "संपर्क",
             content:
-              "Kérdések esetén vagy időpontfoglalásra keress minket bátran e-mailben, telefonon, vagy akár Facebookon is. Látogass el hozzánk a stúdióba is, ahol szívesen válaszolunk a kérdéseidre, és személyesen megbeszélhetjük az elképzeléseidet. Stúdiónk a Gyarmati udvarban található, és ha autóval érkezel, a Páva utcában ingyenes parkolási lehetőség van, mindössze egy rövid sétára. Várjuk megkeresésed, és örömmel segítünk a következő tetoválásod vagy piercinged megvalósításában!",
+              "पूछताछ या अपॉइंटमेंट बुक करने के लिए, हमें ईमेल के माध्यम से संपर्क करें, कॉल करें या Facebook पर संदेश भेजें। आप सीधे हमारे स्टूडियो में भी आ सकते हैं, जहाँ हम आपके प्रश्नों का उत्तर देने और आपके विचारों पर चर्चा करने में खुशी महसूस करेंगे। हम Gyarmati आंगन में स्थित हैं, और यदि आप गाड़ी से आ रहे हैं तो Páva स्ट्रीट पर मुफ़्त पार्किंग उपलब्ध है। हमें आपकी अगली टैटू या पियर्सिंग में मदद करने की खुशी होगी!",
           },
           booking18: {
-            heading: "Foglalás",
+            heading: "बुकिंग",
             content:
-              "Készen állsz piercinged vagy ingyenes tetoválás konzultációd lefoglalására? Kattints az alábbi gombra, és biztosítsd az időpontodat a Salonic oldalunkon. Találsz időpontokat mind piercingekre, mind tetoválás konzultációkra. Tetoválások esetén ingyenes konzultációt kínálunk, hogy átbeszéljük az ötleteidet, megvizsgáljuk a terveket, és mindent előre megtervezzünk. Piercing időpontokat közvetlenül a Reservión keresztül foglalhatsz személyre szabott ellátásért. Kérdésed van? Használd az űrlapot, hogy gyors üzenetet küldj nekünk, és hamarosan válaszolunk!",
+              "क्या आप अपनी पियर्सिंग या फ्री टैटू कंसल्टेशन बुक करने के लिए तैयार हैं? नीचे दिए गए बटन पर क्लिक करके हमारी Salonic पेज पर अपना अपॉइंटमेंट सुरक्षित करें। आपको पियर्सिंग और टैटू कंसल्टेशन दोनों के लिए टाइम स्लॉट्स मिलेंगे। टैटू के लिए हम फ्री कंसल्टेशन प्रदान करते हैं ताकि विचारों पर चर्चा की जा सके, डिज़ाइन की समीक्षा की जा सके और सब कुछ पहले से योजना बनाई जा सके। पियर्सिंग अपॉइंटमेंट्स को सीधे Salonic के माध्यम से बुक किया जा सकता है। कोई सवाल है? हमें फॉर्म के माध्यम से एक त्वरित संदेश भेजें और हम जल्द ही जवाब देंगे!",
           },
           formsubmit18: {
-            formheader: "Küldj nekünk üzenetet!",
-            nameplaceholder: "név",
-            emailplaceholder: "email",
-            messageplaceholder: "üzenet",
-            sendbtn: "Küldés",
+            formheader: "हमें जल्दी से संदेश भेजें!",
+            nameplaceholder: "नाम",
+            emailplaceholder: "ईमेल",
+            messageplaceholder: "संदेश",
+            sendbtn: "भेजें",
             nameerror:
-              "A névnek legalább 3 karakter hosszúnak kell lennie, és csak betűket és szóközöket tartalmazhat.",
+              "नाम कम से कम 3 अक्षरों का होना चाहिए और केवल अक्षर और स्पेस शामिल होना चाहिए।",
             emailerror:
-              "Érvénytelen e-mail. Kérjük, adjon meg egy érvényes e-mail címet.",
-            messageerror:
-              "Az üzenetnek legalább 20 karakter hosszúnak kell lennie.",
+              "अमान्य ईमेल पता। कृपया एक मान्य ईमेल दर्ज करें।",
+            messageerror: "संदेश कम से कम 20 अक्षरों का होना चाहिए।",
             feedbackmodal18: {
-              successmsgpart1: "Köszönjük üzenetét, ",
-              successmsgpart2: ". Hamarosan jelentkezünk!",
-              successent: "Sikeresen elküldve.",
-              errorsent: "Küldés sikertelen.",
+              successmsgpart1: "आपके संदेश के लिए धन्यवाद, ",
+              successmsgpart2: ". मैं जल्द ही आपसे संपर्क करूंगा!",
+              successent: "यह सफलतापूर्वक भेजा गया है!",
+              errorsent: "भेजने में विफल।",
             },
           },
           settings18: {
-            settings: "beállítás",
-            theme: "Téma",
-            dark: "Sötét",
-            light: "Világos",
-            lngs: "Nyelv",
-            install: "Telepít",
+            settings: "सेटिंग्स",
+            theme: "थीम",
+            dark: "डार्क",
+            light: "लाइट",
+            lngs: "भाषाएँ",
+            install: "इंस्टॉल",
           },
           pages: {
-            gallery: "Galéria",
-            gallerybtn: "Vissza",
+            gallery: "गैलरी",
+            gallerybtn: "वापस",
           },
           pwa18: {
-            header: "Hozzáadás a kezdőképernyőhöz",
+            header: "होम स्क्रीन में जोड़ें",
             chromiumsinstallvail18: {
               description:
-                "Ez a weblap app-funkciókkal rendelkezik. Telepítse PWA-ként (Progresszív Webalkalmazás).",
-              install: "Telepít",
+                "इस साइट में ऐप की तरह फ़ंक्शन है। इसे PWA (प्रोग्रेसिव वेब एप्लिकेशन) के रूप में इंस्टॉल करें।",
+              install: "इंस्टॉल",
             },
             chromiumsinstalledalreadymobile18: {
               description:
-                "Ez a PWA (Progresszív Webalkalmazás) már telepítve van.",
-              search: "Kérjük, keresse meg az alkalmazási között.",
+                "यह PWA (प्रोग्रेसिव वेब एप्लिकेशन) पहले से ही इंस्टॉल किया गया है।",
+              search: "कृपया इसे अपने एप्लिकेशन ड्रॉअर में खोजें।",
             },
             chromiumsinstalledalreadydesktop18: {
               description:
-                "Ez a PWA (Progresszív Webalkalmazás) már telepítve van.",
-              open: "A megnyitáshoz kattintson a 'Megnyitás' ikonra a címsorban.",
-            },
-
-            safaridesktop18: {
-              description:
-                "Ez a webhely app funkciókkal rendelkezik. Adja hozzá a dokkhoz a teljes körű élmény és az egyszerű hozzáférés érdekében.",
-              share: "Kattintson a 'Megosztás' ikonra a címsorban.",
-              add: "A legördülő menüben válassza a 'Hozzáadás a dokkhoz' lehetőséget.",
-            },
-            safarimobile18: {
-              description:
-                "Ez a webhely app funkciókkal rendelkezik. Adja hozzá a kezdőképernyőhöz a teljes körű élmény és az egyszerű hozzáférés érdekében.",
-              share: "Kattintson a 'Megosztás' ikonra az alábbi menüsorban.",
-              add: "Válassza ki a 'Hozzáadás a kezdőképernyőhöz' lehetőséget.",
+                "यह PWA (प्रोग्रेसिव वेब एप्लिकेशन) पहले से ही इंस्टॉल किया गया है।",
+              open: "कृपया इसे खोलने के लिए एड्रेस बार में आइकन पर क्लिक करें।",
             },
             firefoxdesktop18: {
               description:
-                "Ez a webhely app funkciókkal rendelkezik. Adja hozzá a kezdőképernyőhöz a teljes körű élmény és az egyszerű hozzáférés érdekében.",
-              extension:
-                "Kattintson a 'Bővítmények' ikonra a fenti menüsorban.",
+                "इस साइट में ऐप की तरह फ़ंक्शन है। इसे अपने होम स्क्रीन में जोड़ें ताकि अनुभव और आसान हो।",
+              extension: "ऊपर मेनू बार में 'Extension' आइकन दबाएँ",
               search:
-                "Keresse meg és telepítse a 'Progressive Web Apps for Firefox' bővítményt.",
-              install: "Kattintson a 'Telepítés' ikonra a címsorban.",
+                "'Progressive Web Apps for Firefox' एक्सटेंशन खोजें और इंस्टॉल करें।",
+              install: "एड्रेस बार में 'Install' आइकन दबाएँ।",
+            },
+            safaridesktop18: {
+              description:
+                "इस साइट में ऐप की तरह फ़ंक्शन है। इसे अपने डॉक में जोड़ें ताकि आसान एक्सेस हो।",
+              share: "एड्रेस बार में 'Share' बटन दबाएँ।",
+              add: "ड्रॉपडाउन मेनू में 'Add to Dock' चुनें।",
+            },
+            safarimobile18: {
+              description:
+                "इस साइट में ऐप की तरह फ़ंक्शन है। इसे अपने होम स्क्रीन में जोड़ें ताकि आसान एक्सेस हो।",
+              share: "नीचे मेनू बार में 'Share' बटन दबाएँ।",
+              add: "'Add to Home Screen' दबाएँ।",
             },
             firefoxoperamobile18: {
               description:
-                "Ez a webhely app-funkciókkal rendelkezik. Adja hozzá a kezdőképernyőhöz a teljes körű élmény és az egyszerű hozzáférés érdekében.",
-              settings: "Kattintson a 'Beállítások' ikonra a címsorban.",
-              add: "Válassza ki a 'Hozzáadás a kezdőképernyőhöz' lehetőséget.",
+                "इस साइट में ऐप की तरह फ़ंक्शन है। इसे अपने होम स्क्रीन में जोड़ें ताकि आसान एक्सेस हो।",
+              settings: "ऊपर की बार में 'Setting' बटन दबाएँ।",
+              add: "'Add to Home Screen' दबाएँ।",
             },
             notsupported18: {
               description:
-                "A böngészője jelenleg támogatja a PWA-k (Progresszív Webalkalmazások) telepítését.",
-              try: "Kérjük, próbálja meg megnyitni az alkalmazást egy Chromium-alapú böngészőben, például Chrome-on vagy Edge-en keresztül.",
+                "आपका ब्राउज़र फिलहाल PWAs (प्रोग्रेसिव वेब एप्लिकेशन) इंस्टॉलेशन को सपोर्ट करता है।",
+              try: " कृपया इसे Chrome या Edge जैसे Chromium आधारित ब्राउज़र में खोलने की कोशिश करें।",
             },
           },
         },
       },
-      de: {
+      as: {
         translation: {
           hero18: {
-            tattooandpiercing: "Tattoo und Piercing",
-            welcome: "Willkommen auf unserer offiziellen Website!",
+            tattooandpiercing: "টাটু আৰু পিয়াৰ্ছিং",
+            welcome: "আমাৰ চৰকাৰী ৱেবচাইটত আপোনালোকক স্বাগতম!",
           },
           nav18: {
-            about: "Studio",
-            services: "Dienstleistungen",
-            gallery: "Galerie",
-            testimonials: "Bewertung",
-            contact: "Kontakt",
-            booking: "Buchung",
+            about: "আমাৰ বিষয়ে",
+            services: "সেৱাসমূহ",
+            gallery: "গেলাৰী",
+            testimonials: "প্ৰশংসাপত্ৰ",
+            contact: "যোগাযোগ",
+            booking: "বুকিং",
           },
           about18: {
-            heading: "Studio",
+            heading: "আমাৰ বিষয়ে",
             content:
-              "Unser Studio hat 2017 in Cegléd geoeffnet, und seit letztem Jahr sind wir in unserer neuen Adresse taetig: Cegléd, Kossuth Ferenc Straße 8 (im Gyarmati-Hof!). Unsere Gäste werden von einer freundlichen, familiären Atmosphäre und Stimmung empfangen. Im Laufe der Jahre hat sich unser Kundenstamm kontinuierlich erweitert, und dank euch sind wir heute ein großartiges Team und eine Familie geworden!",
+              "আমাৰ দোকান 2017 চনৰ পৰা Cegléd শহৰত চলি আহিছে। আমাৰ বৰ্তমানৰ ঠিকনা: Cegléd, Kossuth Ferenc ৰাস্তাৰ 8 নম্বৰ। (আমাৰ দোকান Gyarmati আঙণত অৱস্থিত!)। আমিবোৰ অতিথিসকলক এটা বন্ধু-সুলভ, পৰিয়াল-মুখী পৰিৱেশত স্বাগতম জনাও। এই কেই বছৰত আমাৰ গ্ৰাহক বেছি হৈছে আৰু আপোনালোকৰ বাবে আমি এটা দৰুন টিম আৰু পৰিয়াল হৈ উঠিছোঁ!",
           },
           services18: {
-            heading: "Dienstleistungen",
+            heading: "সেৱাসমূহ",
             content:
-              "In unserem Studio bieten wir ein breites Spektrum an Dienstleistungen für alle an, die sich für Tätowierungen und Körpermodifikationen interessieren. Ob Ready-to-Go Tattoo oder ein einzigartiges, selbst entworfenes Design: Wir helfen euch eure Ideen zu verwirklichen. Neben Tätowierungen führen wir auch professionelle Piercings und Mikrodermalimplantate durch und sorgen für eine sichere und präzise Ausführung. Unser Studio bietet eine saubere, freundliche Umgebung, in der ihr euch während des Prozesses wohl fühlen können.",
+              "আমাৰ ষ্টুডিঅ’ত টাটু আৰু দেহ-মডিফিকেশ্যনত আগ্ৰহী সকলৰ বাবে বিভিন্ন সেৱা দিয়া হয়। আপুনি যদি এটা কাষ্টম টাটু ডিজাইন বিচাৰে বা টাটু বনাবলৈ সাজু, মই ব্যক্তিগতভাৱে আপোনাৰ লগত কাম কৰিম। টাটুৰ লগতে, মই প্ৰফেচনেল পিয়াৰ্ছিং আৰু মাইক্র’ডাৰ্মেল ইমপ্লান্টত বিশেষজ্ঞ। আমি সুৰক্ষিত, পৰিষ্কাৰ আৰু স্নিগ্ধ পৰিৱেশত সেৱা প্ৰদান কৰোঁ।",
           },
           gallery18: {
-            heading: "Galerie",
+            heading: "গেলাৰী",
             content:
-              "Seit Beginn meiner Taetigkeit habe ich eine Vielzahl von unterschiedlichen Projekten abgeschlossen, und du findest viele Beispiele im Galeriebereich. Stöbere gerne durch einige der Tattoos, Piercings und Microdermals, die ich gemacht habe. Die Galerie bietet eine Slide-Ansicht, sodass du ganz einfach durch die Werke navigieren kannst. Ich aktualisiere die Fotos regelmäßig, also schaue unbedingt regelmaessig für frische Inhalte und aktuelle Projekte hier rein.",
+              "মই বহুতো কাম সম্পূৰ্ণ কৰিছোঁ আৰু ইয়াৰ উদাহৰণ আপুনি গেলাৰী বিভাগত পাব। ইয়াত টাটু, পিয়াৰ্ছিং আৰু মাইক্র’ডাৰ্মেলৰ ফ’টো আছে। গেলাৰীত স্লাইডিং ভিউ আছে যাতে সহজে চাব পাৰি। মই নিয়মিতভাৱে নতুন ফ’টো আপডেট কৰোঁ, সেয়েহে নতুন কামৰ বাবে আকৌ আহি চাব।",
           },
           testimonials18: {
-            heading: "Erfahrungsberichte",
+            heading: "প্ৰশংসাপত্ৰ",
             content:
-              "Wir freuen uns, so viele positive Erfahrungen unserer Kunden zu teilen. Jedes Feedback zeigt die Sorgfalt und Kompetenz, die wir in jedes Tattoo und Piercing stecken. Lies gerne durch einige unserer zufriedenen Kundenrezensionen auf Facebook und Google, um zu sehen, was sie über uns zu sagen haben. Klicke auf die Überschrift, um detailliertere Bewertungen zu lesen und herauszufinden, warum so viele Menschen uns wählen, um ihren Körper zu verschönern!",
+              "আমাৰ গ্ৰাহকৰ ইতিবাচক অভিজ্ঞতা আপোনালোকৰ সৈতে ভাগ কৰি ল’বলৈ আমিবোৰ আনন্দিত। প্ৰত্যেকটোৱে আমাৰ যত্ন আৰু দক্ষতাৰ প্ৰমাণ দিয়ে। আপুনি Facebook আৰু Google ত আমাৰ সন্তুষ্ট গ্ৰাহকৰ মন্তব্য চাব পাৰিব। হেডাৰ ক্লিক কৰি বেছি মন্তব্য পঢ়িব আৰু জানিব কিয় বহু লোক আমাক বাচি লয়।",
           },
           testimonial18: {
             slides: [
@@ -391,15 +387,14 @@ i18next
                 src: require("../images/testimonialsImgs/bettina.png"),
                 link: "https://www.facebook.com/share/p/15bENQjYdv/",
                 review:
-                  "Ich kann es nur empfehlen. Ein guter Tätowierer mit geschickten Händen 🥰🥰😇 ",
+                  "মই কেৱল পৰামৰ্শ দিব পাৰিম। এটা দক্ষ টাটু শিল্পী 🥰🥰😇",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
                 name: "Zoltán",
                 src: require("../images/testimonialsImgs/zoltan.png"),
                 link: "https://maps.app.goo.gl/gNw5BxF8Pz6LiSXT9",
-                review:
-                  "Er arbeitet sehr praezise. Ich kann ihn nur empfehlen!",
+                review: "অতি ভাল কাম কৰে। মই কেৱল পৰামৰ্শ দিব পাৰিম!",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
@@ -407,16 +402,15 @@ i18next
                 src: require("../images/testimonialsImgs/dia.png"),
                 link: "https://g.co/kgs/pVxRGH8",
                 review:
-                  "Sehr schöne und präzise Arbeit, freundliches Umfeld, mit hervorragenden Fachleuten... Brauchen Sie mehr??? 😀",
+                  "অতি সুন্দৰ আৰু সঠিক কাম, বন্ধু-সুলভ পৰিৱেশ, উৎকৃষ্ট প্ৰফেচনেলসকল... আৰু কি লাগে??? 😀",
                 rating: "⭐⭐⭐⭐⭐",
               },
-
               {
                 name: "Edina",
                 src: require("../images/testimonialsImgs/edina.png"),
                 link: "https://maps.app.goo.gl/MMRfjxfNWfrooxvv5",
                 review:
-                  "Sehr schöner Ort! Freundliche Umgebung. Du machst präzise Arbeit!",
+                  "অতি সুন্দৰ ঠাই! বন্ধু-সুলভ পৰিৱেশ। আপুনি সঠিক কাম কৰে!",
                 rating: "⭐⭐⭐⭐⭐",
               },
               {
@@ -424,106 +418,102 @@ i18next
                 src: require("../images/testimonialsImgs/helga.png"),
                 link: "https://www.facebook.com/share/p/BEha5HXkhYsBEnch/",
                 review:
-                  "Vielen Dank, Professionalität, Geduld und Freundlichkeit. Ich werde auf jeden Fall wiederkommen.",
+                  "অতিশয় ধন্যবাদ, প্ৰফেচনেলিজম, ধৈৰ্য আৰু সদয়তা। মই নিশ্চয়তে আকৌ আহিম।",
                 rating: "⭐⭐⭐⭐⭐",
               },
             ],
           },
           contact18: {
-            heading: "Kontakt",
+            heading: "যোগাযোগ",
             content:
-              "Für Anfragen oder Terminvereinbarungen kannst du uns gerne per E-Mail, telefonisch oder über Facebook kontaktieren. Du bist auch herzlich eingeladen, unser Studio zu besuchen, wo wir deine Fragen beantworten und deine Ideen persönlich besprechen können. Unser Studio befindet sich im Gyarmati-Hof. Wenn du mit dem Auto kommst, gibt es kostenlose Parkplätze in der nahegelegenen Páva-Straße, nur einen kurzen Fußweg entfernt. Wir freuen uns darauf, von dir zu hören und dir bei deinem nächsten Tattoo oder Piercing zu helfen!",
+              "প্ৰশ্ন থাকিলে বা এপইন্টমেণ্টৰ বাবে আমাক ইমেইল, ফোন বা Facebookত যোগাযোগ কৰক। আপুনি আমাৰ ষ্টুডিঅ’লৈও আহিব পাৰে, আমি আপোনাৰ চিন্তা-ধাৰা আলোচনা কৰিবলৈ সদায় প্ৰস্তুত। আমি Gyarmati আঙণত অৱস্থিত। গাড়ীৰে আহিলে Páva ৰাস্তাত বিনামূলীয়া পাৰ্কিং সুবিধা আছে। আপোনাক সহায় কৰিবলৈ আমি অপেক্ষা কৰিছোঁ!",
           },
           booking18: {
-            heading: "Buchung",
+            heading: "বুকিং",
             content:
-              "Bereit, deinen Piercing oder eine kostenlose Tätowierungsberatung zu buchen? Klicke einfach auf den Button unten, um deinen Termin auf unserer Salonic-Seite zu sichern. Du findest Zeitfenster für Piercings und Tätowierungsberatungen. Für Tätowierungen bieten wir kostenlose Beratungsgespräche an, um deine Ideen zu besprechen, Designs zu überprüfen und alles im Voraus zu planen. Piercing-Termine können direkt über Salonic für eine persönliche Betreuung gebucht werden. Hast du Fragen? Nutze das Formular, um uns eine kurze Nachricht zu senden, und wir melden uns bald bei dir!",
+              "আপুনি পিয়াৰ্ছিং বা ফ্ৰী টাটু পৰামৰ্শ বুক কৰিব বিচাৰে নেকি? তলৰ বুটামত ক্লিক কৰি আমাৰ Salonic পেজত এপইন্টমেণ্ট লওক। ইয়াত পিয়াৰ্ছিং আৰু টাটু পৰামৰ্শ দুয়োৰে সময় স্লট পাব। টাটুৰ বাবে আমি ফ্ৰী পৰামৰ্শ দিওঁ যাতে চিন্তা-ধাৰা আলোচনা কৰিব পাৰি আৰু আগতীয়াকৈ পৰিকল্পনা কৰিব পাৰি। কোনো প্ৰশ্ন থাকিলে, ফৰ্মত মেচেজ পঠিয়াওক, আমি সোনকালে উত্তৰ দিম।",
           },
           formsubmit18: {
-            formheader: "Schick uns eine Nachricht!",
-            nameplaceholder: "Name",
-            emailplaceholder: "E-Mail",
-            messageplaceholder: "Nachricht",
-            sendbtn: "Senden",
+            formheader: "আমাক এটা সৰু মেচেজ পঠিয়াওক!",
+            nameplaceholder: "নাম",
+            emailplaceholder: "ইমেইল",
+            messageplaceholder: "মেচেজ",
+            sendbtn: "পঠাওক",
             nameerror:
-              "Der Name muss mindestens 3 Zeichen lang sein und darf nur Buchstaben und Leerzeichen enthalten.",
+              "নাম কমেও ৩টা অক্ষৰ হ'ব লাগিব আৰু কেৱল আখৰ আৰু স্পেচ থাকিব লাগিব।",
             emailerror:
-              "Ungültige E-Mail. Bitte gib eine gültige E-Mail-Adresse an.",
-            messageerror: "Die Nachricht muss mindestens 20 Zeichen lang sein.",
+              "অবৈধ ইমেইল। অনুগ্ৰহ কৰি এটা বৈধ ইমেইল দিয়ক।",
+            messageerror: "মেচেজ কমেও ২০টা অক্ষৰ হ'ব লাগিব।",
             feedbackmodal18: {
-              successmsgpart1: "Vielen Dank für Deine Nachricht, ",
-              successmsgpart2: ". Ich werde mich in Kürze bei Dir melden!",
-              successent: "Dies wurde erfolgreich gesendet!",
-              errorsent: "Senden fehlgeschlagen.",
+              successmsgpart1: "আপোনাৰ মেচেজৰ বাবে ধন্যবাদ, ",
+              successmsgpart2: ". মই সোনকালে যোগাযোগ কৰিম!",
+              successent: "সফলতাৰে পঠিওৱা হৈছে!",
+              errorsent: "পঠিয়াব পৰা নগ’ল।",
             },
           },
           settings18: {
-            settings: "settings",
-            theme: "Thema",
-            dark: "Dunkel",
-            light: "Hell",
-            lngs: "Sprachen",
-            install: "Installieren",
+            settings: "ছেটিংছ",
+            theme: "থিম",
+            dark: "ডাৰ্ক",
+            light: "লাইট",
+            lngs: "ভাষাসমূহ",
+            install: "ইনষ্টল",
           },
           pages: {
-            gallery: "Galerie",
-            gallerybtn: "Zurück",
+            gallery: "গেলাৰী",
+            gallerybtn: "উভতি যাওক",
           },
-
           pwa18: {
-            header: "Zum Startbildschirm hinzufügen",
+            header: "হোম স্ক্ৰীনত যোগ কৰক",
             chromiumsinstallvail18: {
               description:
-                "Diese Website verfügt über App-Funktionalität. Installiere die Seite als PWA (Progressive Web Application).",
-              install: "Installieren",
+                "এই ছাইটত এপৰ দৰে ফাংশ্যন আছে। ইয়াক PWA (প্ৰগ্ৰেচিভ ৱেব এপ্লিকেচন) হিচাপে ইনষ্টল কৰক।",
+              install: "ইনষ্টল",
             },
             chromiumsinstalledalreadymobile18: {
               description:
-                "Diese PWA (Progressive Web Application) wurde bereits installiert.",
-              search: "Bitte schau in deiner Bewerbungsliste nach.",
+                "এই PWA ইতিমধ্যে ইনষ্টল কৰা হৈছে।",
+              search: "অনুগ্ৰহ কৰি আপোনাৰ এপ্লিকেচন ড্ৰয়াৰত চাওক।",
             },
             chromiumsinstalledalreadydesktop18: {
               description:
-                "Diese PWA (Progressive Web Application) wurde bereits installiert.",
-              open: "Zum Öffnen klick bitte auf das Symbol in der Adressleiste.",
+                "এই PWA ইতিমধ্যে ইনষ্টল কৰা হৈছে।",
+              open: "এড্ৰেছ বাৰত আইকনত ক্লিক কৰি খোলক।",
             },
             firefoxdesktop18: {
               description:
-                "Diese Seite verfügt über App-Funktionalität. Füge diese in deinem Startbildschirm hinzu, um ein umfassendes Erlebnis und einen einfachen Zugriff zu erhalten.",
-              extension:
-                "Klick oben in der Menüleiste auf das Symbol „Erweiterung“.",
+                "এই ছাইটত এপৰ দৰে ফাংশ্যন আছে। ইয়াক আপোনাৰ হোম স্ক্ৰীনত যোগ কৰক যাতে সহজে ব্যৱহাৰ কৰিব পাৰি।",
+              extension: "ওপৰৰ মেনু বাৰত 'Extension' আইকন চাপক।",
               search:
-                "Suche und installiere die Erweiterung „Progressive Web Apps für Firefox“.",
-              install:
-                "Klick in der Adressleiste auf das Symbol „Installieren“.",
+                "'Progressive Web Apps for Firefox' এক্সটেনশ্যন বিচাৰি ইনষ্টল কৰক।",
+              install: "এড্ৰেছ বাৰত 'Install' আইকন চাপক।",
             },
             safaridesktop18: {
               description:
-                "Diese Seite verfügt über App-Funktionalität. Füge diese zu deinem Dock hinzu, um umfassende Erfahrung und einfachen Zugriff zu erhalten.",
-              share: "Klick in der Adressleiste auf die Schaltfläche „Teilen“.",
-              add: "Wähle im Dropdown-Menü „Zum Dock hinzufügen“.",
+                "এই ছাইটত এপৰ দৰে ফাংশ্যন আছে। ইয়াক আপোনাৰ Dock-ত যোগ কৰক যাতে সহজে ব্যৱহাৰ কৰিব পাৰি।",
+              share: "এড্ৰেছ বাৰত 'Share' বুটাম চাপক।",
+              add: "মেনুত 'Add to Dock' বাচি লওক।",
             },
             safarimobile18: {
               description:
-                "Diese Seite verfügt über App-Funktionalität. Füge diese zu deinem Startbildschirm hinzu, um ein umfassendes Erlebnis und einen einfachen Zugriff zu erhalten.",
-              share:
-                "Klick in der Menüleiste unten auf die Schaltfläche „Teilen“.",
-              add: "Klick auf „Zum Startbildschirm hinzufügen“.",
+                "এই ছাইটত এপৰ দৰে ফাংশ্যন আছে। ইয়াক আপোনাৰ হোম স্ক্ৰীনত যোগ কৰক যাতে সহজে ব্যৱহাৰ কৰিব পাৰি।",
+              share: "তলত মেনু বাৰত 'Share' বুটাম চাপক।",
+              add: "'Add to Home Screen' বুটাম চাপক।",
             },
             firefoxoperamobile18: {
               description:
-                "Diese Seite verfügt über App-Funktionalität. Füge diese zu deinem Startbildschirm hinzu, um ein umfassendes Erlebnis und einen einfachen Zugriff zu erhalten.",
-              settings:
-                "Klick oben in der oberen Leiste auf die Schaltfläche „Einstellungen“.",
-              add: "Klick auf „Zum Startbildschirm hinzufügen“.",
+                "এই ছাইটত এপৰ দৰে ফাংশ্যন আছে। ইয়াক আপোনাৰ হোম স্ক্ৰীনত যোগ কৰক যাতে সহজে ব্যৱহাৰ কৰিব পাৰি।",
+              settings: "ওপৰৰ বাৰত 'Setting' বুটাম চাপক।",
+              add: "'Add to Home Screen' বুটাম চাপক।",
             },
             notsupported18: {
               description:
-                "Dein Browser unterstützt derzeit die Installation von PWAs (Progressive Web Applications).",
-              try: "Bitte versuche die App über einen Chromium-basierten Browser wie Chrome oder Edge zu öffnen.",
+                "আপোনাৰ ব্ৰাউজাৰে এতিয়া PWAs (প্ৰগ্ৰেচিভ ৱেব এপ্লিকেচন) ইনষ্টল চাপোর্ট কৰে।",
+              try: " অনুগ্ৰহ কৰি Chrome বা Edge যেনেকুৱা Chromium ভিত্তিক ব্ৰাউজাৰ ব্যৱহাৰ কৰক।",
             },
           },
         },
-      },
+      }
+
     },
   });

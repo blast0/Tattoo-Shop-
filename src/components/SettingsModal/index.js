@@ -103,10 +103,10 @@ const SettingsModal = ({
           <SettingsLabel>{settings.lngs}</SettingsLabel>
           <SettingsWrapper>
             <SettingWrapper
-              onClick={() => changeLng("hu-HU")}
-              $isSelected={selectedLang === "hu-HU"}>
+              onClick={() => changeLng("hi-HI")}
+              $isSelected={selectedLang === "hi-HI"}>
               <FlagIcon src={Hun} alt="Hungary_flag" />
-              <SettingLabel>Hun</SettingLabel>
+              <SettingLabel>Hindi</SettingLabel>
             </SettingWrapper>
             <SettingWrapper
               onClick={() => changeLng("en-GB")}
@@ -115,10 +115,10 @@ const SettingsModal = ({
               <SettingLabel>Eng</SettingLabel>
             </SettingWrapper>
             <SettingWrapper
-              onClick={() => changeLng("de-DE")}
-              $isSelected={selectedLang === "de-DE"}>
+              onClick={() => changeLng("as-AS")}
+              $isSelected={selectedLang === "as-AS"}>
               <FlagIcon src={Ger} alt="Germany_flag" />
-              <SettingLabel>Ger</SettingLabel>
+              <SettingLabel>AS</SettingLabel>
             </SettingWrapper>
           </SettingsWrapper>
 
